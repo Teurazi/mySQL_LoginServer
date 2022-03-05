@@ -1,0 +1,3 @@
+﻿  SQL_Creator.cpp
+C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\SQL_Creator\SQL_Creator\SQL_Creator.cpp(58,3): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  SQL_Creator.vcxproj -> C:\Users\user\Desktop\서버,프로그래밍코딩\멀티스레드\멀티스레드\SQL_Creator\x64\Debug\SQL_Creator.exe
